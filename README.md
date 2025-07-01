@@ -77,17 +77,7 @@ cypress/downloads/
 
 ---
 
-## ✉️ Envio
 
-Após rodar e validar os testes, envie este projeto compactado ou publique em seu GitHub com o nome:
-
-```
-desafio_revvo_qa
-```
-
-E envie para:
-
-```
 plataforma@somosrevvo.com.br
 ```
 
@@ -95,5 +85,4 @@ plataforma@somosrevvo.com.br
 
 ## 👨‍💻 Autor
 
-Seu Nome  
-[Seu LinkedIn ou GitHub]
+Israel Ben Hur
